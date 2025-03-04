@@ -1,21 +1,27 @@
-MIT License
+# 🌟 Bienvenue sur mon Portfolio ! 🌐
 
-Copyright (c) 2025 Sacha MARQUES
+Salut, je suis Sacha, étudiant en **BTS SIO SISR** 👨‍💻, passionné par le développement web et les technologies modernes. 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Ce portfolio est la vitrine de mes compétences en **JavaScript**, **HTML** et **CSS**. 🚀
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 🎯 À propos de moi
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+Actuellement en **BTS SIO SISR**, je suis spécialisé dans la gestion des systèmes et des réseaux, mais je suis également un passionné de **développement web**. Ce portfolio reflète mes compétences acquises en développement web et mes projets réalisés dans le cadre de ma formation et de mes expériences personnelles. 💻✨
+
+🔧 **Compétences principales :**
+- **Frontend** : HTML5, CSS3, JavaScript, et jQuery
+- **Gestion des réseaux** : Administration des serveurs, réseaux et sécurité informatique 🌐
+- **Outils** : Git, GitHub, VS Code, python 🛠️
+
+## 🔥 Pourquoi ce portfolio ?
+
+Ce portfolio est ma façon de :
+- Montrer mes compétences en développement web 💡
+- Mettre en avant mes projets réalisés dans le cadre de ma formation et de mes stages 📚
+- Partager mes connaissances sur les technologies front-end et back-end 🖥️
+
+## 🛠️ Technologies utilisées
+
+- **Frontend** : HTML5, CSS3, JavaScript, et jQuery ⚡
+- **Gestion des réseaux** : Administration des systèmes, mise en place de serveurs et de réseaux 🌍
+- **Outils** : Git, GitHub, VS Code. 
